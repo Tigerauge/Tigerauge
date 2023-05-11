@@ -3,7 +3,7 @@
 - 🌱 Ich lerne zurzeit HTML, CSS und Javascript
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigerauge&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigerauge&show_icons=true&theme=dark)
 
 
 <!---
