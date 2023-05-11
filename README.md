@@ -3,8 +3,7 @@
 - 🌱 Ich lerne zurzeit HTML, CSS und Javascript
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigerauge&show_icons=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigerauge&show_icons=true&theme=dark)](https://github.com/Tigerauge)
+[![Fzyzcjy's GitHub stats](https://github-readme-stats.vercel.app/api?username=fzyzcjy&show_icons=true&locale=en&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 SpeastTV/SpeastTV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
